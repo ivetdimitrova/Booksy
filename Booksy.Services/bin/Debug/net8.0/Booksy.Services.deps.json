@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Booksy.Services/1.0.0": {
+        "runtime": {
+          "Booksy.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Booksy.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
