@@ -18,6 +18,10 @@ namespace Booksy.Data
         public virtual DbSet<Book> Books { get; set; } = null!;
         public virtual DbSet<Order> Orders { get; set; } = null!;
         public virtual DbSet<OrderBook> OrdersBooks { get; set; } = null!;
+        public virtual DbSet<Ganre> Ganres { get; set; } = null!;
+
+        public virtual DbSet<BookGanre> BooksGanres { get; set; } = null!;
+
 
 
 
@@ -31,7 +35,7 @@ namespace Booksy.Data
             builder.ApplyConfiguration(new OrderBookConfiguration());
             builder.ApplyConfiguration(new OrderConfiguration());
             builder.ApplyConfiguration(new GanreConfiguration());
-
+            builder.ApplyConfiguration(new BookGanreConfiguration());
 
         }
     }
