@@ -32,6 +32,11 @@ namespace Booksy.Data.Configurations
                 .Property(b => b.Description)
                 .IsRequired();
 
+            entity
+                .HasOne(b => b.Ganre)
+                .WithMany(g => g.Books)
+                .HasForeignKey(b => b.GanreId);
+
         }
     }
 }

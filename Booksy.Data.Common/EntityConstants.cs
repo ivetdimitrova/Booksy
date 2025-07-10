@@ -14,6 +14,10 @@
      
         }
 
+        public static class Ganre
+        {
+            public const int NameMaxLength = 85;
+        }
        
     }
 }

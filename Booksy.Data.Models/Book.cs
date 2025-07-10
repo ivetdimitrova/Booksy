@@ -8,6 +8,9 @@
         public string Description { get; set; } = null!;
         public decimal Price { get; set; }
 
+        public Guid GanreId { get; set; }
+        public Ganre Ganre { get; set; } = null!;
+
         public bool IsDeleted { get; set; } = false;
         public virtual ICollection<AuthorBook> Authors { get; set; }
             = new HashSet<AuthorBook>();
