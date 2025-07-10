@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Booksy.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+904e24236b158ea468d3051823ef6ee9f99413e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94f365c26ece389bba52a6e75a0c2c07ba7f993e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Booksy.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Booksy.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

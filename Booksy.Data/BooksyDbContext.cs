@@ -30,6 +30,7 @@ namespace Booksy.Data
             builder.ApplyConfiguration(new BookConfiguration());
             builder.ApplyConfiguration(new OrderBookConfiguration());
             builder.ApplyConfiguration(new OrderConfiguration());
+            builder.ApplyConfiguration(new GanreConfiguration());
 
 
         }

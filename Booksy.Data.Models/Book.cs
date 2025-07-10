@@ -7,16 +7,15 @@
         public string ISBN { get; set; } = null!;
         public string Description { get; set; } = null!;
         public decimal Price { get; set; }
-
-        public Guid GanreId { get; set; }
-        public Ganre Ganre { get; set; } = null!;
-
         public bool IsDeleted { get; set; } = false;
         public virtual ICollection<AuthorBook> Authors { get; set; }
             = new HashSet<AuthorBook>();
 
         public virtual ICollection<OrderBook> Orders { get; set; }
            = new HashSet<OrderBook>();
+
+        public virtual ICollection<BookGanre> Ganres { get; set; }
+           = new HashSet<BookGanre>();
 
     }
 }
