@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xca8c4W1i1E=",
+  "dgSpecHash": "R/zcWQZV5i8=",
   "success": true,
-  "projectFilePath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy\\Booksy.csproj",
+  "projectFilePath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Booksy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivetd\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ivetd\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

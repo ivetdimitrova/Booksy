@@ -21,3 +21,15 @@ D:\Programming\1.C#\C# Web\Kursov\Booksy1.1\Booksy.Data.Common\obj\Debug\net8.0\
 D:\Programming\1.C#\C# Web\Kursov\Booksy1.1\Booksy.Data.Common\obj\Debug\net8.0\refint\Booksy.Data.Common.dll
 D:\Programming\1.C#\C# Web\Kursov\Booksy1.1\Booksy.Data.Common\obj\Debug\net8.0\Booksy.Data.Common.pdb
 D:\Programming\1.C#\C# Web\Kursov\Booksy1.1\Booksy.Data.Common\obj\Debug\net8.0\ref\Booksy.Data.Common.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Data.Common\bin\Debug\net8.0\Booksy.Data.Common.deps.json
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Data.Common\bin\Debug\net8.0\Booksy.Data.Common.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Data.Common\bin\Debug\net8.0\Booksy.Data.Common.pdb
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Data.Common\obj\Debug\net8.0\Booksy.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Data.Common\obj\Debug\net8.0\Booksy.Data.Common.AssemblyInfoInputs.cache
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Data.Common\obj\Debug\net8.0\Booksy.Data.Common.AssemblyInfo.cs
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Data.Common\obj\Debug\net8.0\Booksy.Data.Common.csproj.CoreCompileInputs.cache
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Data.Common\obj\Debug\net8.0\Booksy.Data.Common.sourcelink.json
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Data.Common\obj\Debug\net8.0\Booksy.Data.Common.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Data.Common\obj\Debug\net8.0\refint\Booksy.Data.Common.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Data.Common\obj\Debug\net8.0\Booksy.Data.Common.pdb
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Data.Common\obj\Debug\net8.0\ref\Booksy.Data.Common.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy\\Booksy.csproj": {}
+    "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Booksy.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Common\\Booksy.Data.Common.csproj": {
+    "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Common\\Booksy.Data.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Common\\Booksy.Data.Common.csproj",
+        "projectUniqueName": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Common\\Booksy.Data.Common.csproj",
         "projectName": "Booksy.Data.Common",
-        "projectPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Common\\Booksy.Data.Common.csproj",
+        "projectPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Common\\Booksy.Data.Common.csproj",
         "packagesPath": "C:\\Users\\ivetd\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Common\\obj\\",
+        "outputPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Models\\Booksy.Data.Models.csproj": {
+    "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Booksy.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Models\\Booksy.Data.Models.csproj",
+        "projectUniqueName": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Booksy.Data.Models.csproj",
         "projectName": "Booksy.Data.Models",
-        "projectPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Models\\Booksy.Data.Models.csproj",
+        "projectPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Booksy.Data.Models.csproj",
         "packagesPath": "C:\\Users\\ivetd\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Models\\obj\\",
+        "outputPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -140,14 +140,14 @@
         }
       }
     },
-    "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data\\Booksy.Data.csproj": {
+    "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Booksy.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data\\Booksy.Data.csproj",
+        "projectUniqueName": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Booksy.Data.csproj",
         "projectName": "Booksy.Data",
-        "projectPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data\\Booksy.Data.csproj",
+        "projectPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Booksy.Data.csproj",
         "packagesPath": "C:\\Users\\ivetd\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data\\obj\\",
+        "outputPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -168,11 +168,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Common\\Booksy.Data.Common.csproj": {
-                "projectPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Common\\Booksy.Data.Common.csproj"
+              "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Common\\Booksy.Data.Common.csproj": {
+                "projectPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Common\\Booksy.Data.Common.csproj"
               },
-              "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Models\\Booksy.Data.Models.csproj": {
-                "projectPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Models\\Booksy.Data.Models.csproj"
+              "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Booksy.Data.Models.csproj": {
+                "projectPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Booksy.Data.Models.csproj"
               }
             }
           }
@@ -222,14 +222,14 @@
         }
       }
     },
-    "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.ViewModels\\Booksy.ViewModels.csproj": {
+    "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.ViewModels\\Booksy.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.ViewModels\\Booksy.ViewModels.csproj",
+        "projectUniqueName": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.ViewModels\\Booksy.ViewModels.csproj",
         "projectName": "Booksy.ViewModels",
-        "projectPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.ViewModels\\Booksy.ViewModels.csproj",
+        "projectPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.ViewModels\\Booksy.ViewModels.csproj",
         "packagesPath": "C:\\Users\\ivetd\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.ViewModels\\obj\\",
+        "outputPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -287,14 +287,14 @@
         }
       }
     },
-    "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy\\Booksy.csproj": {
+    "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Booksy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy\\Booksy.csproj",
+        "projectUniqueName": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Booksy.csproj",
         "projectName": "Booksy",
-        "projectPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy\\Booksy.csproj",
+        "projectPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Booksy.csproj",
         "packagesPath": "C:\\Users\\ivetd\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy\\obj\\",
+        "outputPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -315,11 +315,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data\\Booksy.Data.csproj": {
-                "projectPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data\\Booksy.Data.csproj"
+              "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Booksy.Data.csproj": {
+                "projectPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Booksy.Data.csproj"
               },
-              "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.ViewModels\\Booksy.ViewModels.csproj": {
-                "projectPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.ViewModels\\Booksy.ViewModels.csproj"
+              "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.ViewModels\\Booksy.ViewModels.csproj": {
+                "projectPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.ViewModels\\Booksy.ViewModels.csproj"
               }
             }
           }

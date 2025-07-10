@@ -30,4 +30,10 @@ header .navbar {
     header .navbar .navbar-brand {
         color: white !important;
     }
+
+header .navbar-brand {
+    font-family: 'Georgia', serif;
+    font-size: 28px;
+    font-weight: bold;
+}
     

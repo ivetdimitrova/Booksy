@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sTJpg1sfAeQ=",
+  "dgSpecHash": "a1m0uDiq3kc=",
   "success": true,
-  "projectFilePath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Models\\Booksy.Data.Models.csproj",
+  "projectFilePath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Booksy.Data.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivetd\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.16\\microsoft.aspnetcore.cryptography.internal.8.0.16.nupkg.sha512",
     "C:\\Users\\ivetd\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.16\\microsoft.aspnetcore.cryptography.keyderivation.8.0.16.nupkg.sha512",

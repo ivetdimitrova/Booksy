@@ -21,3 +21,15 @@ D:\Programming\1.C#\C# Web\Kursov\Booksy1.1\Booksy.ViewModels\obj\Debug\net8.0\B
 D:\Programming\1.C#\C# Web\Kursov\Booksy1.1\Booksy.ViewModels\obj\Debug\net8.0\refint\Booksy.ViewModels.dll
 D:\Programming\1.C#\C# Web\Kursov\Booksy1.1\Booksy.ViewModels\obj\Debug\net8.0\Booksy.ViewModels.pdb
 D:\Programming\1.C#\C# Web\Kursov\Booksy1.1\Booksy.ViewModels\obj\Debug\net8.0\ref\Booksy.ViewModels.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy.ViewModels\bin\Debug\net8.0\Booksy.ViewModels.deps.json
+D:\Programming\1.C#\C# Web\Booksy\Booksy.ViewModels\bin\Debug\net8.0\Booksy.ViewModels.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy.ViewModels\bin\Debug\net8.0\Booksy.ViewModels.pdb
+D:\Programming\1.C#\C# Web\Booksy\Booksy.ViewModels\obj\Debug\net8.0\Booksy.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1.C#\C# Web\Booksy\Booksy.ViewModels\obj\Debug\net8.0\Booksy.ViewModels.AssemblyInfoInputs.cache
+D:\Programming\1.C#\C# Web\Booksy\Booksy.ViewModels\obj\Debug\net8.0\Booksy.ViewModels.AssemblyInfo.cs
+D:\Programming\1.C#\C# Web\Booksy\Booksy.ViewModels\obj\Debug\net8.0\Booksy.ViewModels.csproj.CoreCompileInputs.cache
+D:\Programming\1.C#\C# Web\Booksy\Booksy.ViewModels\obj\Debug\net8.0\Booksy.ViewModels.sourcelink.json
+D:\Programming\1.C#\C# Web\Booksy\Booksy.ViewModels\obj\Debug\net8.0\Booksy.ViewModels.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy.ViewModels\obj\Debug\net8.0\refint\Booksy.ViewModels.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy.ViewModels\obj\Debug\net8.0\Booksy.ViewModels.pdb
+D:\Programming\1.C#\C# Web\Booksy\Booksy.ViewModels\obj\Debug\net8.0\ref\Booksy.ViewModels.dll

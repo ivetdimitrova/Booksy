@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Common\\Booksy.Data.Common.csproj",
+      "projectUniqueName": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Common\\Booksy.Data.Common.csproj",
       "projectName": "Booksy.Data.Common",
-      "projectPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Common\\Booksy.Data.Common.csproj",
+      "projectPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Common\\Booksy.Data.Common.csproj",
       "packagesPath": "C:\\Users\\ivetd\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\1.C#\\C# Web\\Kursov\\Booksy1.1\\Booksy.Data.Common\\obj\\",
+      "outputPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

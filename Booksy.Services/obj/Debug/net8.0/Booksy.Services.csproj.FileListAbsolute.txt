@@ -10,3 +10,15 @@ D:\Programming\1.C#\C# Web\Kursov\Booksy\Booksy.Services\obj\Debug\net8.0\Booksy
 D:\Programming\1.C#\C# Web\Kursov\Booksy\Booksy.Services\obj\Debug\net8.0\refint\Booksy.Services.dll
 D:\Programming\1.C#\C# Web\Kursov\Booksy\Booksy.Services\obj\Debug\net8.0\Booksy.Services.pdb
 D:\Programming\1.C#\C# Web\Kursov\Booksy\Booksy.Services\obj\Debug\net8.0\ref\Booksy.Services.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Services\bin\Debug\net8.0\Booksy.Services.deps.json
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Services\bin\Debug\net8.0\Booksy.Services.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Services\bin\Debug\net8.0\Booksy.Services.pdb
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Services\obj\Debug\net8.0\Booksy.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Services\obj\Debug\net8.0\Booksy.Services.AssemblyInfoInputs.cache
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Services\obj\Debug\net8.0\Booksy.Services.AssemblyInfo.cs
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Services\obj\Debug\net8.0\Booksy.Services.csproj.CoreCompileInputs.cache
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Services\obj\Debug\net8.0\Booksy.Services.sourcelink.json
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Services\obj\Debug\net8.0\Booksy.Services.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Services\obj\Debug\net8.0\refint\Booksy.Services.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Services\obj\Debug\net8.0\Booksy.Services.pdb
+D:\Programming\1.C#\C# Web\Booksy\Booksy.Services\obj\Debug\net8.0\ref\Booksy.Services.dll
