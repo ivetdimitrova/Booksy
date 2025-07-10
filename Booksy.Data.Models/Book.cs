@@ -6,6 +6,8 @@
         public string Title { get; set; } = null!;
         public string ISBN { get; set; } = null!;
         public string Description { get; set; } = null!;
+
+        public string? ImageUrl { get; set; }
         public decimal Price { get; set; }
         public bool IsDeleted { get; set; } = false;
         public virtual ICollection<AuthorBook> Authors { get; set; }
