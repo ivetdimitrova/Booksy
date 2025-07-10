@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Migrations\\20250710160657_AddTablesAndColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Booksy.Data\\Migrations\\20250710160657_AddTablesAndColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95E168EF-9C5B-497B-B176-1E5D55A03BD0}|Booksy.Data\\Booksy.Data.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy.data\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95E168EF-9C5B-497B-B176-1E5D55A03BD0}|Booksy.Data\\Booksy.Data.csproj|solutionrelative:booksy.data\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -66,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,7 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "20250710160657_AddTablesAndColumn.cs",
+              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Migrations\\20250710160657_AddTablesAndColumn.cs",
+              "RelativeDocumentMoniker": "Booksy.Data\\Migrations\\20250710160657_AddTablesAndColumn.cs",
+              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Migrations\\20250710160657_AddTablesAndColumn.cs",
+              "RelativeToolTip": "Booksy.Data\\Migrations\\20250710160657_AddTablesAndColumn.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:06:58.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BookGanreConfiguration.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Configurations\\BookGanreConfiguration.cs",
               "RelativeDocumentMoniker": "Booksy.Data\\Configurations\\BookGanreConfiguration.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BooksyDbContext.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\BooksyDbContext.cs",
               "RelativeDocumentMoniker": "Booksy.Data\\BooksyDbContext.cs",
@@ -120,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BookGanre.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\BookGanre.cs",
               "RelativeDocumentMoniker": "Booksy.Data.Models\\BookGanre.cs",
@@ -133,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GanreConfiguration.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Configurations\\GanreConfiguration.cs",
               "RelativeDocumentMoniker": "Booksy.Data\\Configurations\\GanreConfiguration.cs",
@@ -146,20 +163,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BookConfiguration.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Configurations\\BookConfiguration.cs",
               "RelativeDocumentMoniker": "Booksy.Data\\Configurations\\BookConfiguration.cs",
               "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Configurations\\BookConfiguration.cs",
               "RelativeToolTip": "Booksy.Data\\Configurations\\BookConfiguration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T15:42:03.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Author.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Author.cs",
               "RelativeDocumentMoniker": "Booksy.Data.Models\\Author.cs",
@@ -172,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Order.cs",
               "RelativeDocumentMoniker": "Booksy.Data.Models\\Order.cs",
@@ -185,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EntityConstants.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Common\\EntityConstants.cs",
               "RelativeDocumentMoniker": "Booksy.Data.Common\\EntityConstants.cs",
@@ -198,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Ganre.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Ganre.cs",
               "RelativeDocumentMoniker": "Booksy.Data.Models\\Ganre.cs",
@@ -211,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BookController.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Booksy\\Controllers\\BookController.cs",
@@ -224,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Book.cs",
               "RelativeDocumentMoniker": "Booksy.Data.Models\\Book.cs",
@@ -237,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Views\\Book\\Index.cshtml",
               "RelativeDocumentMoniker": "Booksy\\Views\\Book\\Index.cshtml",
@@ -249,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "WishBooks.cshtml",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Views\\Book\\WishBooks.cshtml",
               "RelativeDocumentMoniker": "Booksy\\Views\\Book\\WishBooks.cshtml",
@@ -261,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BookIndexViewModel.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.ViewModels\\BookIndexViewModel.cs",
               "RelativeDocumentMoniker": "Booksy.ViewModels\\BookIndexViewModel.cs",
