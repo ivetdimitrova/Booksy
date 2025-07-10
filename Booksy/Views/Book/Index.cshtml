@@ -1,4 +1,6 @@
 ﻿@model IEnumerable<BookIndexViewModel>
+
+
 <div class="row text-center">
     @foreach (BookIndexViewModel book in Model)
     {
@@ -18,9 +20,9 @@
                     <p class="card-text">Category: @book.Genre</p>
                     <p class="card-text"><small>Favorites: @book.SavedCount</small></p>
                     <div class="d-flex justify-content-between mt-auto">
-                        @if (User?.Identity?.IsAuthenticated == true && !book.IsAuthor && !book.IsSaved)
+                        @if (User?.Identity?.IsAuthenticated == true)
                         {
-                            <a asp-controller="Recipe" asp-action="Details" asp-route-id="@recipe.Id" class="btn btn-info me-2 w-50">
+                            <a asp-controller="Recipe" asp-action="Details" asp-route-id="@book.Id" class="btn btn-info me-2 w-50">
                                 <i class="fas fa-info-circle"></i> Details
                             </a>
                             <form asp-controller="Recipe" asp-action="Save" method="post" class="w-50">
