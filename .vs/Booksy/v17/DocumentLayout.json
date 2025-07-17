@@ -3,64 +3,20 @@
   "WorkspaceRootPath": "D:\\Programming\\1.C#\\C# Web\\Booksy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Migrations\\20250710160657_AddTablesAndColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Booksy.Data\\Migrations\\20250710160657_AddTablesAndColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77C17832-3B55-4400-BE60-722895213291}|Booksy\\Booksy.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C17832-3B55-4400-BE60-722895213291}|Booksy\\Booksy.csproj|solutionrelative:booksy\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E168EF-9C5B-497B-B176-1E5D55A03BD0}|Booksy.Data\\Booksy.Data.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy.data\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E168EF-9C5B-497B-B176-1E5D55A03BD0}|Booksy.Data\\Booksy.Data.csproj|solutionrelative:booksy.data\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77C17832-3B55-4400-BE60-722895213291}|Booksy\\Booksy.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy\\areas\\user\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C17832-3B55-4400-BE60-722895213291}|Booksy\\Booksy.csproj|solutionrelative:booksy\\areas\\user\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38006B7C-3398-4AA3-91A7-525C539C111D}|Booksy.Data.Models\\Booksy.Data.Models.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy.data.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38006B7C-3398-4AA3-91A7-525C539C111D}|Booksy.Data.Models\\Booksy.Data.Models.csproj|solutionrelative:booksy.data.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95E168EF-9C5B-497B-B176-1E5D55A03BD0}|Booksy.Data\\Booksy.Data.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy.data\\booksydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E168EF-9C5B-497B-B176-1E5D55A03BD0}|Booksy.Data\\Booksy.Data.csproj|solutionrelative:booksy.data\\booksydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95E168EF-9C5B-497B-B176-1E5D55A03BD0}|Booksy.Data\\Booksy.Data.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy.data\\configurations\\bookganreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E168EF-9C5B-497B-B176-1E5D55A03BD0}|Booksy.Data\\Booksy.Data.csproj|solutionrelative:booksy.data\\configurations\\bookganreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95E168EF-9C5B-497B-B176-1E5D55A03BD0}|Booksy.Data\\Booksy.Data.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy.data\\configurations\\ganreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E168EF-9C5B-497B-B176-1E5D55A03BD0}|Booksy.Data\\Booksy.Data.csproj|solutionrelative:booksy.data\\configurations\\ganreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38006B7C-3398-4AA3-91A7-525C539C111D}|Booksy.Data.Models\\Booksy.Data.Models.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy.data.models\\ganre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38006B7C-3398-4AA3-91A7-525C539C111D}|Booksy.Data.Models\\Booksy.Data.Models.csproj|solutionrelative:booksy.data.models\\ganre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38006B7C-3398-4AA3-91A7-525C539C111D}|Booksy.Data.Models\\Booksy.Data.Models.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy.data.models\\bookganre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38006B7C-3398-4AA3-91A7-525C539C111D}|Booksy.Data.Models\\Booksy.Data.Models.csproj|solutionrelative:booksy.data.models\\bookganre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09A15EAC-1177-434A-883F-987D037C42A4}|Booksy.Data.Common\\Booksy.Data.Common.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy.data.common\\entityconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09A15EAC-1177-434A-883F-987D037C42A4}|Booksy.Data.Common\\Booksy.Data.Common.csproj|solutionrelative:booksy.data.common\\entityconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38006B7C-3398-4AA3-91A7-525C539C111D}|Booksy.Data.Models\\Booksy.Data.Models.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy.data.models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38006B7C-3398-4AA3-91A7-525C539C111D}|Booksy.Data.Models\\Booksy.Data.Models.csproj|solutionrelative:booksy.data.models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38006B7C-3398-4AA3-91A7-525C539C111D}|Booksy.Data.Models\\Booksy.Data.Models.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy.data.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38006B7C-3398-4AA3-91A7-525C539C111D}|Booksy.Data.Models\\Booksy.Data.Models.csproj|solutionrelative:booksy.data.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CF6DD0-C1F6-48F8-874F-E4D344654165}|Booksy.ViewModels\\Booksy.ViewModels.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy.viewmodels\\bookindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CF6DD0-C1F6-48F8-874F-E4D344654165}|Booksy.ViewModels\\Booksy.ViewModels.csproj|solutionrelative:booksy.viewmodels\\bookindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77C17832-3B55-4400-BE60-722895213291}|Booksy\\Booksy.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy\\areas\\manager\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C17832-3B55-4400-BE60-722895213291}|Booksy\\Booksy.csproj|solutionrelative:booksy\\areas\\manager\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77C17832-3B55-4400-BE60-722895213291}|Booksy\\Booksy.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77C17832-3B55-4400-BE60-722895213291}|Booksy\\Booksy.csproj|solutionrelative:booksy\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77C17832-3B55-4400-BE60-722895213291}|Booksy\\Booksy.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{77C17832-3B55-4400-BE60-722895213291}|Booksy\\Booksy.csproj|solutionrelative:booksy\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77C17832-3B55-4400-BE60-722895213291}|Booksy\\Booksy.csproj|d:\\programming\\1.c#\\c# web\\booksy\\booksy\\views\\book\\wishbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{77C17832-3B55-4400-BE60-722895213291}|Booksy\\Booksy.csproj|solutionrelative:booksy\\views\\book\\wishbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,195 +54,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250710160657_AddTablesAndColumn.cs",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Migrations\\20250710160657_AddTablesAndColumn.cs",
-              "RelativeDocumentMoniker": "Booksy.Data\\Migrations\\20250710160657_AddTablesAndColumn.cs",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Migrations\\20250710160657_AddTablesAndColumn.cs",
-              "RelativeToolTip": "Booksy.Data\\Migrations\\20250710160657_AddTablesAndColumn.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T16:06:58.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookGanreConfiguration.cs",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Configurations\\BookGanreConfiguration.cs",
-              "RelativeDocumentMoniker": "Booksy.Data\\Configurations\\BookGanreConfiguration.cs",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Configurations\\BookGanreConfiguration.cs",
-              "RelativeToolTip": "Booksy.Data\\Configurations\\BookGanreConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:57:31.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BooksyDbContext.cs",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\BooksyDbContext.cs",
-              "RelativeDocumentMoniker": "Booksy.Data\\BooksyDbContext.cs",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\BooksyDbContext.cs",
-              "RelativeToolTip": "Booksy.Data\\BooksyDbContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:51:36.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookGanre.cs",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\BookGanre.cs",
-              "RelativeDocumentMoniker": "Booksy.Data.Models\\BookGanre.cs",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\BookGanre.cs",
-              "RelativeToolTip": "Booksy.Data.Models\\BookGanre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:49:20.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GanreConfiguration.cs",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Configurations\\GanreConfiguration.cs",
-              "RelativeDocumentMoniker": "Booksy.Data\\Configurations\\GanreConfiguration.cs",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Configurations\\GanreConfiguration.cs",
-              "RelativeToolTip": "Booksy.Data\\Configurations\\GanreConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:45:17.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookConfiguration.cs",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Configurations\\BookConfiguration.cs",
-              "RelativeDocumentMoniker": "Booksy.Data\\Configurations\\BookConfiguration.cs",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data\\Configurations\\BookConfiguration.cs",
-              "RelativeToolTip": "Booksy.Data\\Configurations\\BookConfiguration.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:42:03.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Author.cs",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Author.cs",
-              "RelativeDocumentMoniker": "Booksy.Data.Models\\Author.cs",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Author.cs",
-              "RelativeToolTip": "Booksy.Data.Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:39:58.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Order.cs",
-              "RelativeDocumentMoniker": "Booksy.Data.Models\\Order.cs",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Order.cs",
-              "RelativeToolTip": "Booksy.Data.Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:39:44.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EntityConstants.cs",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Common\\EntityConstants.cs",
-              "RelativeDocumentMoniker": "Booksy.Data.Common\\EntityConstants.cs",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Common\\EntityConstants.cs",
-              "RelativeToolTip": "Booksy.Data.Common\\EntityConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:39:38.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Ganre.cs",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Ganre.cs",
-              "RelativeDocumentMoniker": "Booksy.Data.Models\\Ganre.cs",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Ganre.cs",
-              "RelativeToolTip": "Booksy.Data.Models\\Ganre.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:38:04.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "BookController.cs",
               "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Booksy\\Controllers\\BookController.cs",
               "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Controllers\\BookController.cs",
               "RelativeToolTip": "Booksy\\Controllers\\BookController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:28:32.38Z",
+              "WhenOpened": "2025-07-17T20:59:46.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Areas\\User\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Booksy\\Areas\\User\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Areas\\User\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Booksy\\Areas\\User\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T20:59:25.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Book.cs",
-              "RelativeDocumentMoniker": "Booksy.Data.Models\\Book.cs",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.Data.Models\\Book.cs",
-              "RelativeToolTip": "Booksy.Data.Models\\Book.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAoAAAAqAAAAAAAAAA==",
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Areas\\Manager\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "Booksy\\Areas\\Manager\\Controllers\\ManagerController.cs",
+              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Areas\\Manager\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "Booksy\\Areas\\Manager\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:17:51.96Z",
+              "WhenOpened": "2025-07-17T20:59:09.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Views\\Book\\Index.cshtml",
-              "RelativeDocumentMoniker": "Booksy\\Views\\Book\\Index.cshtml",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "Booksy\\Views\\Book\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-10T10:14:10.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WishBooks.cshtml",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Views\\Book\\WishBooks.cshtml",
-              "RelativeDocumentMoniker": "Booksy\\Views\\Book\\WishBooks.cshtml",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Views\\Book\\WishBooks.cshtml",
-              "RelativeToolTip": "Booksy\\Views\\Book\\WishBooks.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-10T10:14:08.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookIndexViewModel.cs",
-              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.ViewModels\\BookIndexViewModel.cs",
-              "RelativeDocumentMoniker": "Booksy.ViewModels\\BookIndexViewModel.cs",
-              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy.ViewModels\\BookIndexViewModel.cs",
-              "RelativeToolTip": "Booksy.ViewModels\\BookIndexViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Booksy\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Programming\\1.C#\\C# Web\\Booksy\\Booksy\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Booksy\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:03:10.222Z",
+              "WhenOpened": "2025-07-17T20:58:52.335Z",
               "EditorCaption": ""
             }
           ]
