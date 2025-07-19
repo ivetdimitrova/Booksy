@@ -1,11 +1,12 @@
 ﻿using Booksy.Data.Configurations;
+using  Booksy.Data.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using  Booksy.Data.Models;
 
 namespace Booksy.Data
 {
-    public class BooksyDbContext : IdentityDbContext
+    public class BooksyDbContext : IdentityDbContext<ApplicationUser, IdentityRole<Guid>, Guid>
     {
         public BooksyDbContext(DbContextOptions<BooksyDbContext> options)
          : base(options)

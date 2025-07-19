@@ -1,4 +1,5 @@
 using Booksy.Data;
+using Booksy.Data.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,6 +10,9 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<BooksyDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
+builder.Services.AddIdentity<ApplicationUser,IdentityRole<Guid>>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddEntityFrameworkStores<BooksyDbContext>();
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => 
 {
