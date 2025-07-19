@@ -23,7 +23,7 @@ namespace Booksy.Data.Configurations
 
             entity
                 .HasOne(o => o.User)
-                .WithMany()
+                .WithMany(u => u.Orders)
                 .HasForeignKey(o => o.UserId);
 
         }

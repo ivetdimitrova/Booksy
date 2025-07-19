@@ -299,3 +299,7 @@ D:\Programming\1.C#\C# Web\Booksy\Booksy\obj\Debug\net8.0\refint\Booksy.dll
 D:\Programming\1.C#\C# Web\Booksy\Booksy\obj\Debug\net8.0\Booksy.pdb
 D:\Programming\1.C#\C# Web\Booksy\Booksy\obj\Debug\net8.0\Booksy.genruntimeconfig.cache
 D:\Programming\1.C#\C# Web\Booksy\Booksy\obj\Debug\net8.0\ref\Booksy.dll
+D:\Programming\1.C#\C# Web\Booksy\Booksy\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Programming\1.C#\C# Web\Booksy\Booksy\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Programming\1.C#\C# Web\Booksy\Booksy\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Programming\1.C#\C# Web\Booksy\Booksy\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

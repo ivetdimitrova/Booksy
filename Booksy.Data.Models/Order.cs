@@ -7,7 +7,7 @@ namespace Booksy.Data.Models
         public Guid Id { get; set; }
 
         public string UserId { get; set; } = null!;
-        public virtual IdentityUser User { get; set; } = null!;
+        public virtual ApplicationUser User { get; set; } = null!;
         public DateTime OrderDate { get; set; }
         public bool IsItTaken { get; set; } = false;
         public int Quantity { get; set; }
